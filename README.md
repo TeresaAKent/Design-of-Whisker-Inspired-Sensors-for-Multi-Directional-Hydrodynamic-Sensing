@@ -8,7 +8,7 @@
 
 ### Overview
 
-#### Application Install
+### Application Install
 
 ### Sensor Design and Manufacturing
 
