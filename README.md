@@ -18,13 +18,13 @@ Download file folder in order to run the application. All files inside the folde
 Steps to manufacture the sensor:
 ![Manufacturing (1)](https://github.com/user-attachments/assets/c4b360cf-5f03-4046-8816-6fb0b22d9949)
 1. Make the sensor body using
-  A water jet cutter on carbon fiber sheets [1]
-  A CO2 laser cutter on
-  A 3D printer as in [4]
+  - A water jet cutter on carbon fiber sheets [1]
+  - A CO2 laser cutter on
+  - A 3D printer as in [4]
 2. 3D print the housing components
-  1. a 2 mm x 2mm x 1 mm platform
-  2. the housing for the Hall Effect Sensor
-  3. the housing for the spring
+  - a 2 mm x 2mm x 1 mm platform
+  - the housing for the Hall Effect Sensor
+  - the housing for the spring
 3. Laser cut steel springs using a UV Laser 
 4. Wire the Hall Effect sensor and cover the board with Silpoxy
 5. Assembele the sensor
