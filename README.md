@@ -2,9 +2,6 @@
 ## Overview
 This repository is for the research paper "Design of Whisker-Inspired Sensors for Multi-Directional Hydrodynamic Sensing". The paper introduces a novel aquatic whisker-inspired flow sensor that accurately predicts both flow speed and direction. The sensor is modular, waterproof, and highly customizable where design changes have significant effects on specifications like sensitivity and range. Its capabilities are demonstrated through analytical models, experimental setups, and application tests. In this repository, we provide a MATLAB application based on our analytical model. The user interfce allows researchers to change the sensor design parameters and see how these changes affect the sensor's specifications. We hope this tool will enable future researchers to apply the work presented in this paper to new flow sensing tasks.
 
-Paper Citation :
-[1] Wang, T., Kent, T. A., & Bergbreiter, S. (2023). Design of whisker-inspired sensors for multi-directional hydrodynamic sensing. arXiv preprint arXiv:2307.09569.
-
 ### Authors
 Teresa Kent Carnegie Mellon University Robotics Institute
 Tuo Wang Carnegie Mellon Universtiy Department of Mechanical Engineering
@@ -12,10 +9,7 @@ Sarah Bergbreiter Carnegie Mellon University, Department of Mechanical Engineeri
 
 The authors would like to aknowledge Suhan Kim, a former member student in the Micro Robotics Lab at Carnegie Mellon University whose work and code developed for his papers [2] and [3] informed the development of this application.
 
-[2] Kim, S., Kubicek, R., Paris, A., Tagliabue, A., How, J. P., & Bergbreiter, S. (2020, October). A whisker-inspired fin sensor for multi-directional airflow sensing. In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1330-1337). IEEE.
-[3] Kim, S., Velez, C., Patel, D. K., & Bergbreiter, S. (2019, November). A magnetically transduced whisker for angular displacement and moment sensing. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 665-671). IEEE.
-
-## Application for the design of Hydrodynamic Whisker Sensors
+## Designing and Manufacturing new Hydrodynamic Whisker Sensors
 
 ### Application Install
 Download file folder in order to run the application. All files inside the folder contain functions needed to run the application.
@@ -40,3 +34,11 @@ Steps to manufacture the sensor:
 
 Soon we will upload much of the sensor design CAD so others can alter the design to fit their application. Please reach out to the authors if you would like the files before that time.
 
+## Refrences 
+This Paper Citation:
+[1] Wang, T., Kent, T. A., & Bergbreiter, S. (2023). Design of whisker-inspired sensors for multi-directional hydrodynamic sensing. arXiv preprint arXiv:2307.09569.
+
+Other Citations:
+[2] Kim, S., Kubicek, R., Paris, A., Tagliabue, A., How, J. P., & Bergbreiter, S. (2020, October). A whisker-inspired fin sensor for multi-directional airflow sensing. In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1330-1337). IEEE.
+[3] Kim, S., Velez, C., Patel, D. K., & Bergbreiter, S. (2019, November). A magnetically transduced whisker for angular displacement and moment sensing. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 665-671). IEEE.
+[4] Kent, T. A., & Bergbreiter, S. (2024, May). Flow Shadowing: A Method to Detect Multiple Flow Headings using an Array of Densely Packed Whisker-inspired Sensors. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 17843-17849). IEEE.
