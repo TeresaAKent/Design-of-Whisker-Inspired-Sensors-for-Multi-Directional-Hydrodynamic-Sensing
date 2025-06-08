@@ -42,5 +42,7 @@ This Paper Citation:
 Other Citations:
 
 [2] Kim, S., Kubicek, R., Paris, A., Tagliabue, A., How, J. P., & Bergbreiter, S. (2020, October). A whisker-inspired fin sensor for multi-directional airflow sensing. In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1330-1337). IEEE.
+
 [3] Kim, S., Velez, C., Patel, D. K., & Bergbreiter, S. (2019, November). A magnetically transduced whisker for angular displacement and moment sensing. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 665-671). IEEE.
+
 [4] Kent, T. A., & Bergbreiter, S. (2024, May). Flow Shadowing: A Method to Detect Multiple Flow Headings using an Array of Densely Packed Whisker-inspired Sensors. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 17843-17849). IEEE.
