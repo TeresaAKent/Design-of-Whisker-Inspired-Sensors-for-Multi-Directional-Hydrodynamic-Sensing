@@ -4,7 +4,9 @@ This repository is for the research paper "Design of Whisker-Inspired Sensors fo
 
 ### Authors
 Teresa Kent Carnegie Mellon University Robotics Institute
+
 Tuo Wang Carnegie Mellon Universtiy Department of Mechanical Engineering
+
 Sarah Bergbreiter Carnegie Mellon University, Department of Mechanical Engineering
 
 The authors would like to aknowledge Suhan Kim, a former member student in the Micro Robotics Lab at Carnegie Mellon University whose work and code developed for his papers [2] and [3] informed the development of this application.
