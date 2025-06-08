@@ -28,9 +28,9 @@ Steps to manufacture the sensor:
 3. Laser cut steel springs using a UV Laser 
 4. Wire the Hall Effect sensor and cover the board with Silpoxy
 5. Assembele the sensor
-  1. Hall Effect Sensor in the housing
-  2. Attach by glue and place in the housing: Whisker body onto the 2 mm platform onto the spring, magnet on the opposite side of the spring
-  3. Attach the two housing components together and cover in SiylPoxy
+  - Hall Effect Sensor in the housing
+  - Attach by glue and place in the housing: Whisker body onto the 2 mm platform onto the spring, magnet on the opposite side of the spring
+  - Attach the two housing components together and cover in SiylPoxy
 
 Soon we will upload much of the sensor design CAD so others can alter the design to fit their application. Please reach out to the authors if you would like the files before that time.
 
